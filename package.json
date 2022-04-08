@@ -1,0 +1,16 @@
+{
+  "name": "com.gnarlygamesudio.gnarlytools",
+  "displayName": "Gnarly Tools",
+  "description": "All mini-tools and scripts for game development",
+  "version": "1.0.0",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/Gnarly-Games/GnarlyUtility.git"
+  },
+  "author": {
+    "name": "Gnarly Game Studio",
+    "email": "info@gnarlygamestudio.com",
+    "url": "https://www.gnarlygamestudio.com/"
+  },
+  "type": "tool"
+}
